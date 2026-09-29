@@ -1,6 +1,6 @@
 # Browser Notification Scareware Troubleshooting Lab
 
-**Scenario:** I investigated repeated fake antivirus notifications appearing on a Windows computer. The alerts claimed that virus protection had expired and that multiple threats were detected. I identified that the notifications were being delivered through Microsoft Edge rather than Windows Security, then blocked and removed the suspicious browser notification source.
+**Scenario:** I investigated repeated fake antivirus notifications appearing on a Windows computer. The alerts claimed that virus protection had expired and that multiple threats were detected. I identified that the notifications were being delivered through Microsoft Edge rather than Windows Security, then blocked and removed the suspicious browser notification source. Then Notifications stopped Completly 
 
 **1. Identify the Fake Antivirus Notifications**
 
